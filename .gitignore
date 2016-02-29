@@ -1,4 +1,5 @@
 # Windows image file caches
+bower_components
 Thumbs.db
 ehthumbs.db
 
