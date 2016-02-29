@@ -1,0 +1,24 @@
+{
+  "name": "themeManager",
+  "version": "1.0.0",
+  "description": "this moduule will handle functionality related to themes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cejaythakkar/package_themeManager.git"
+  },
+  "author": "jay thakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cejaythakkar/package_themeManager/issues"
+  },
+  "homepage": "https://github.com/cejaythakkar/package_themeManager",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "stylus": "^0.53.0",
+    "express" : "*"
+  }
+}
